@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @antoine1501
+- 👋 Hi, I’m student at Stockholm University in Environmental Science
 - 👀 I’m interested in Climate sciences, Polar Climate
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on CMIP6
+- 💞️ I’m looking to collaborate ....
 - 📫 How to reach me ...
 
 <!---
