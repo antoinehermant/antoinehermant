@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a PhD's student in Glaciology at the University of Bern, Switzerland
-- 👀 I’m interested in glaciology, ice sheet modelm plaeo-climate and climate change
+- 👀 I’m interested in glaciology, ice sheet modelling, plaeo-climate and climate change
 - 🌱 I’m currently learning statistical methods, machine learning
 - 📫 How to reach me ...
 
