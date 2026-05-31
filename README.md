@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a PhD's student in Glaciology at the University of Bern, Switzerland
-- 👀 I’m interested in Climate sciences, Polar Climate, Ice Sheet Modeling
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate ....
+- 👀 I’m interested in glaciology, ice sheet modelm plaeo-climate and climate change
+- 🌱 I’m currently learning statistical methods, machine learning
 - 📫 How to reach me ...
 
 <!---
